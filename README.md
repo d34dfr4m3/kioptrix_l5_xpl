@@ -2,6 +2,8 @@
 This is just a shit code I write while playing Kioptrix 2014 #5. The code here is just a automation in exploitation
 using public exploits which I found in the exploit-db. 
 
+The freak.you will automate the RCE and use the Directory Traversal to read the output, just like a regular shell but very very worst. And the freakyou can read a encoded payload and send in stages to the target using the RCE vulnerability, decode and execute the payload, yes, let you netcat waiting for it, baby.
+
 The writeup is in my blog, link here
 
 
